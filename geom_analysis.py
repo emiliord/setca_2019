@@ -1,3 +1,7 @@
+"""
+Functions and script for geometry analysis.
+"""
+
 import numpy
 import sys
 
